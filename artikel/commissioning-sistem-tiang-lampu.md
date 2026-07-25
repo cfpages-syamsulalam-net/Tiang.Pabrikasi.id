@@ -1,0 +1,223 @@
+---
+article_id: TPG-10-06
+title: "Checklist Commissioning Sistem Tiang Lampu"
+slug: "commissioning-sistem-tiang-lampu"
+description: "Coordinate alignment, fasteners, access covers, electrical tests, earthing/bonding, aiming, control, labeling, documents, and defects"
+status: outline
+publication_date: "2026-02-25"
+publication_date_basis: editorial_backfill
+date_modified: null
+parent_topic: TPG-10
+primary_intent: "Plan functional handover"
+reader_community: "Pabrikasi.id"
+reader_address: "Kawan Pabrikasi.id"
+final_route: "/artikel/commissioning-sistem-tiang-lampu.html"
+technical_review: required
+sources:
+  - "https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147"
+  - "https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026"
+  - "https://www.iso.org/standard/83335.html"
+  - "https://www.iso.org/standard/77795.html"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200"
+  - "https://pesta.bsn.go.id/produk/detail/12882-sni17292020"
+  - "https://www.iso.org/standard/64838.html"
+  - "https://www.iso.org/standard/64835.html"
+  - "https://www.iso.org/standard/85705.html"
+  - "https://www.iso.org/standard/75614.html"
+  - "https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212"
+---
+
+<!-- GENERATED ARTICLE OUTLINE: expand this file; do not delete scope/evidence constraints -->
+
+# Checklist Commissioning Sistem Tiang Lampu
+
+## Assignment lock
+
+- **Writer task:** Expand this file into one complete article answering: “Checklist Commissioning Sistem Tiang Lampu”
+- **Reader and situation:** Owner accepting an installed lighting system
+- **Reader outcome:** Coordinate alignment, fasteners, access covers, electrical tests, earthing/bonding, aiming, control, labeling, documents, and defects
+- **Primary intent:** Plan functional handover
+- **Reader community:** `Pabrikasi.id`
+- **Primary friendly address:** `Kawan Pabrikasi.id`
+- **Natural variants:** `Sobat Pabrikasi.id` and `Teman Pabrikasi.id`
+- **Address cadence:** use a friendly project-community address three to five times in a typical long article, only at natural conversational pivots.
+- **Scope boundary:** Does not define test values or energization authority; approved electrical/lighting plan governs
+- **Final public route:** `/artikel/commissioning-sistem-tiang-lampu.html`
+- **Appointed CMS date:** `2026-02-25` (`editorial_backfill`; preserve exactly)
+- **Target length:** normally 1,400–2,200 useful words; stop earlier if the answer is complete.
+- **Do not drift:** do not turn this page into a broad category page, sales landing page, or substitute for professional/project approval.
+
+## Opening instructions
+
+- Open with the exact short salutation: **“Halo, Kawan Pabrikasi.id!”**
+- Start with the concrete decision, confusion, risk, or costly shortcut behind **Checklist Commissioning Sistem Tiang Lampu**.
+- Give the short answer within the first two or three paragraphs.
+- State what evidence or condition can change that answer.
+- Later, sprinkle `Kawan Pabrikasi.id`, `Sobat Pabrikasi.id`, or `Teman Pabrikasi.id` at useful warnings, decisions, examples, or the conclusion; do not force them into every section.
+- Do not use a generic industry-history or “Di era digital” introduction.
+
+## Evidence packet
+
+Use the original source links below. Do not cite this outline or `GLOBAL_RESEARCH.md`.
+
+### KR-01
+
+- **Original sources:** [`TOPICAL_AUTHORITY.md`](TOPICAL_AUTHORITY.md), and [`ARTICLE_CATALOG.md`](ARTICLE_CATALOG.md).
+- **Purpose for this article:** Freeze the verified editorial scope for `tiang.pabrikasi.id` and prevent family research from overriding this project's actual catalog boundaries.
+- **Safe grounded facts:** The frozen catalog has 20 parent topics and 120 briefs. Intended readers include homeowners, facility and maintenance teams, small manufacturers, procurement staff, project supervisors, and workshop operators. Repository plans are editorial inputs, not proof of a real workshop, staff, equipment, qualifications, prices, locations, or services.
+- **Limits:** Re-read both frozen files if the project role, catalog, URL ownership, or conversion path changes. Do not infer an automotive specialty or add unsupported neighboring trades.
+
+### KR-17
+
+- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026).
+- **Purpose for this article:** Make maintenance content evidence-based without inventing universal schedules or promising uptime.
+- **Safe grounded facts:** Calendar-based, runtime-based, condition-based, corrective, and statutory work answer different needs. Work order history, failure coding, inspection readings, parts identity, deferred defects, tests, and release authority support trend review and planning.
+- **Limits:** Do not provide a universal interval, alarm threshold, remaining-life estimate, spares quantity, uptime saving, or restart decision. Obtain current OEM manuals, asset history, operating context, statutory requirements, and responsible-person approval.
+
+### KR-07
+
+- **Original sources:** [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-5:2019 — official ISO abstract](https://www.iso.org/standard/77795.html), [OSHA 29 CFR 1910.1200 — hazard communication](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.1200).
+- **Purpose for this article:** Make material and consumable records usable for fabrication, compatibility, safety, inspection, maintenance, and later failure investigation.
+- **Safe grounded facts:** Useful traceability can include material designation, dimensions/heat or batch where required, certificate/report linkage, filler/consumable classification and batch, storage/conditioning, coating product and batch, mixing/application records, replacement-part identity, and approved substitution. The US hazard-communication rule illustrates label and safety-data-sheet concepts but is not Indonesian law.
+- **Limits:** Do not infer composition, compatibility, shelf life, storage, mixing ratio, coverage, cure, welding parameter, exposure limit, or disposal route from generic labels. Verify exact product, batch, substrate, environment, and current Indonesian rules.
+
+### KR-11
+
+- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 3834-6:2024 — official ISO abstract](https://www.iso.org/standard/83335.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Stop generic fabrication guidance from becoming structural design or approval.
+- **Safe grounded facts:** Member size alone cannot establish adequacy. Loads, combinations, geometry, stability, connections, anchors/supports, existing condition, erection sequence, temporary stability, tolerances, fire/corrosion exposure, inspection, and maintenance all affect the complete system.
+- **Limits:** No span table, member recommendation, connection detail, anchor choice, load capacity, or “SNI compliant” claim may be generated from these catalog/abstract pages.
+
+### KR-13
+
+- **Original sources:** [SNI 1729:2020 — official BSN catalog](https://pesta.bsn.go.id/produk/detail/12882-sni17292020), [ISO 12944-3:2017 — official ISO abstract](https://www.iso.org/standard/64835.html), [ISO 12944-8:2017 — official ISO abstract](https://www.iso.org/standard/64838.html).
+- **Purpose for this article:** Treat gates, railings, stairs, canopies, grilles, frames, furniture, and similar products as installed systems rather than decorative workshop objects.
+- **Safe grounded facts:** Function and risk can depend on use, users, geometry, edges and entrapment, load and impact, support/anchor substrate, drainage and water traps, dissimilar materials, exposure, access, operation/hardware, coating repair, erection, and future maintenance.
+- **Limits:** The cited sources do not provide application-specific dimensions, loads, anchors, child-safety rules, accessibility requirements, or local approvals. Resolve those from the actual project and current governing rules.
+
+### KR-04
+
+- **Original sources:** [ISO 17635:2025 — official ISO abstract](https://www.iso.org/standard/85705.html), [ISO 9712:2021 — official ISO abstract](https://www.iso.org/standard/75614.html).
+- **Purpose for this article:** Prevent visual symptoms or an isolated measurement from being presented as a complete diagnosis or acceptance decision.
+- **Safe grounded facts:** Inspection method, coverage, technique, personnel, equipment, surface condition, calibration/verification status, reporting, and acceptance basis are separate evidence items. ISO 17635 also warns that NDT acceptance levels are not a direct one-to-one translation of ISO 5817 quality levels.
+- **Limits:** The abstracts do not supply technique parameters, acceptance values, required extent, calibration intervals, or project fitness. Obtain the governing code, full standards, written procedure, and asset-specific inspection plan.
+
+### KR-10
+
+- **Original sources:** [Permenaker No. 38 Tahun 2016 — BPK](https://peraturan.bpk.go.id/Details/146207/permenaker-no-38-tahun-2016), [Permenaker No. 11 Tahun 2026 — BPK](https://peraturan.bpk.go.id/Details/351282/permenaker-no-11-tahun-2026), [OSHA 29 CFR 1910.147 — control of hazardous energy](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.147), [OSHA 29 CFR 1910.212 — general machine guarding](https://www.osha.gov/laws-regs/regulations/standardnumber/1910/1910.212).
+- **Purpose for this article:** Ensure a component-repair article considers the complete machine, energy sources, operating envelope, safeguarding, commissioning, and records.
+- **Safe grounded facts:** A repaired shaft, frame, coupling, guard, base, or attachment can alter alignment, balance, clearance, strength, vibration, containment, access, interlocks, or operating hazards. Safe servicing and safe production are related but distinct states.
+- **Limits:** Do not publish an isolation sequence, guard dimension, balance tolerance, restart authorization, or fitness claim generically. Verify current Indonesian provisions and exact OEM/site requirements.
+
+## Evidence gates
+
+- **GATE-01:** Resolve the gate from current project evidence and competent review.
+- **GATE-02:** Resolve the gate from current project evidence and competent review.
+- **GATE-03:** Resolve the gate from current project evidence and competent review.
+- **GATE-04:** Resolve the gate from current project evidence and competent review.
+- **GATE-05:** Resolve the gate from current project evidence and competent review.
+- **GATE-06:** Resolve the gate from current project evidence and competent review.
+- **GATE-07:** Resolve the gate from current project evidence and competent review.
+- **GATE-08:** Resolve the gate from current project evidence and competent review.
+- **GATE-09:** Resolve the gate from current project evidence and competent review.
+- **GATE-10:** Resolve the gate from current project evidence and competent review.
+- **GATE-11:** Resolve the gate from current project evidence and competent review.
+- **GATE-12:** Resolve the gate from current project evidence and competent review.
+- **GATE-13:** Resolve the gate from current project evidence and competent review.
+
+If a gate affects the article's main conclusion, keep a visible `[NEEDS ...]` marker for coordinator review. Do not guess.
+
+## Internal-link plan
+
+### Existing local routes
+
+- `/jual-pasang-tiang-lampu-taman-yogyakarta.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/jual-pasang-tiang-lampu-taman-yogyakarta` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/jual-pasang-tiang-lampu-taman-yalimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/jual-pasang-tiang-lampu-taman-yalimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/jual-pasang-tiang-lampu-taman-yahukimo.html` — use only if it helps the reader's next step; verify the anchor describes the destination.
+- `/jual-pasang-tiang-lampu-taman-yahukimo` — use only if it helps the reader's next step; verify the anchor describes the destination.
+
+### Planned sibling articles
+
+These are future routes. Do not link them as live until their HTML exists.
+
+- `TPG-10-04` → `/artikel/sistem-tiang-lampu-tenaga-surya.html` — Tiang Lampu Tenaga Surya sebagai Sistem Struktur dan Energi
+- `TPG-10-05` → `/artikel/outreach-arm-bracket-lampu.html` — Outreach Arm dan Bracket Lampu: Eccentricity yang Sering Terlupa
+
+<!-- BEGIN PUBLIC ARTICLE SECTIONS -->
+
+## Definisikan kebutuhan sebelum meminta harga
+
+- **Purpose:** Nyatakan fungsi, kondisi, kuantitas, batas scope, antarmuka, dan hasil penerimaan.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Buat penawaran benar-benar sebanding
+
+- **Purpose:** Susun komponen scope, inklusi, eksklusi, asumsi, logistik, pengujian, dan risiko.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Dokumen yang membuktikan hal berbeda
+
+- **Purpose:** Bedakan data produk, sertifikat, laporan tes, metode, pengalaman, garansi, dan persetujuan.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Pertanyaan wajib kepada penyedia
+
+- **Purpose:** Buat daftar pertanyaan konkret yang mengungkap kapasitas, batas, tanggung jawab, dan perubahan.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Red flag dan biaya yang sering tersembunyi
+
+- **Purpose:** Jelaskan tanda scope kabur, klaim tanpa bukti, serta biaya akses, tunggu, rework, atau handover.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Penerimaan, serah terima, dan keputusan akhir
+
+- **Purpose:** Tentukan siapa memeriksa apa, rekaman yang disimpan, dan kapan pembayaran/acceptance layak.
+- **Tie back to this article:** Keep the explanation specific to “Checklist Commissioning Sistem Tiang Lampu”.
+- **Evidence:** Use only relevant facts from the evidence packet; add an original source near consequential claims.
+- **Practical value:** Add a concrete question, conditional scenario, checklist item, or decision consequence.
+- **Boundary:** Preserve the assignment lock and evidence gates; do not fill missing project facts.
+
+## Objection or shortcut to address
+
+- Identify one realistic shortcut a reader may prefer.
+- Explain why it can fail in this exact context, using mechanism and evidence rather than scolding.
+- Give the safer or more reliable alternative.
+
+## Required conclusion
+
+- Answer the title again in one compact, non-repetitive form.
+- Give the reader the next action, document, question, inspection, or professional review to obtain.
+- End with an operating rule or honest boundary. Do not end with a generic summary.
+
+## Draft completion checklist
+
+- [ ] Opening answers the main question within two or three paragraphs.
+- [ ] The article opens with `Halo, Kawan Pabrikasi.id!` and uses friendly `Pabrikasi.id` community address naturally three to five times total.
+- [ ] Every H2 above has been replaced with finished, non-repetitive prose.
+- [ ] Facts, project facts, inferences, assumptions, and judgments are not blurred together.
+- [ ] Every consequential claim has an original source or `[NEEDS ...]` marker.
+- [ ] No exact standard clause, number, price, test result, capacity, warranty, or personal experience was invented.
+- [ ] Internal links use exact listed routes and helpful natural anchors.
+- [ ] Future sibling routes are not presented as live.
+- [ ] The public prose does not mention prompts, outlines, SEO, AI, or evidence gates.
+- [ ] Front matter is preserved; `status` changed from `outline` to `draft` only after completion.
+- [ ] Conclusion gives a concrete next action and an honest limit.
